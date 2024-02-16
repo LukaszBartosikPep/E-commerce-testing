@@ -1,0 +1,90 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2024-02-15T12:10:30.746Z",
+        "before": [
+          {
+            "result": {
+              "duration": 31445100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BeforeHooks.logScenarioExecution(Scenario)"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "Compare offers",
+        "description": "",
+        "id": "ceneo;compare-offers",
+        "after": [
+          {
+            "output": [
+              ""
+            ],
+            "result": {
+              "duration": 4066400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "AfterHooks.takeScreenshotsIfFailed(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3140251600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Ceneo is opened",
+            "match": {
+              "location": "CeneoSteps.openSaucePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3509873300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I search for product",
+            "match": {
+              "location": "CeneoSteps.search()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2009060500,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I select lowest prices",
+            "match": {
+              "location": "CeneoSteps.lowestPrice()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Compare"
+          }
+        ]
+      }
+    ],
+    "name": "Ceneo",
+    "description": "",
+    "id": "ceneo",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/features/Ceneo.feature",
+    "tags": []
+  }
+]
