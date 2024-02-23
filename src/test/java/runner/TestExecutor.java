@@ -13,7 +13,7 @@ import static com.automatedtest.core.logger.BFLogger.logDebug;
         glue = {"com/automatedtest"},
         plugin = {"json:target/cucumber.json"},
 //        name = {"ST-EOD-KPN-002"}, // here you can run a single getCurrentPageFromURL
-        tags = {"@Compare"}, //here you can ran test by tags
+        tags = {"@Time"}, //here you can ran test by tags
         monochrome = true)
 //Run this class with the proper environment
 public class TestExecutor {

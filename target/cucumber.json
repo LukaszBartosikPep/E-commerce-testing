@@ -3,11 +3,11 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2024-02-19T08:46:21.628Z",
+        "start_timestamp": "2024-02-23T08:59:21.414Z",
         "before": [
           {
             "result": {
-              "duration": 42389600,
+              "duration": 29437500,
               "status": "passed"
             },
             "match": {
@@ -15,17 +15,17 @@
             }
           }
         ],
-        "line": 6,
-        "name": "Compare offers",
+        "line": 31,
+        "name": "How long after element visible",
         "description": "",
-        "id": "ceneo;compare-offers",
+        "id": "qa;how-long-after-element-visible",
         "after": [
           {
             "output": [
               ""
             ],
             "result": {
-              "duration": 4810400,
+              "duration": 4818800,
               "status": "passed"
             },
             "match": {
@@ -38,53 +38,47 @@
         "steps": [
           {
             "result": {
-              "duration": 5332227900,
+              "duration": 3956501800,
               "status": "passed"
             },
-            "line": 7,
-            "name": "Ceneo is opened",
+            "line": 32,
+            "name": "I open the \"https://demoqa.com/dynamic-properties\" site",
             "match": {
-              "location": "CeneoSteps.openSaucePage()"
+              "arguments": [
+                {
+                  "val": "\"https://demoqa.com/dynamic-properties\"",
+                  "offset": 11
+                }
+              ],
+              "location": "qaSteps.open(String)"
             },
             "keyword": "Given "
           },
           {
             "result": {
-              "duration": 4258112700,
+              "duration": 4161076800,
               "status": "passed"
             },
-            "line": 8,
-            "name": "I search for product",
+            "line": 33,
+            "name": "I retrieve the time",
             "match": {
-              "location": "CeneoSteps.search()"
-            },
-            "keyword": "Then "
-          },
-          {
-            "result": {
-              "duration": 2890404500,
-              "status": "passed"
-            },
-            "line": 9,
-            "name": "I select lowest prices",
-            "match": {
-              "location": "CeneoSteps.lowestPrice()"
+              "location": "qaSteps.giveTime()"
             },
             "keyword": "Then "
           }
         ],
         "tags": [
           {
-            "name": "@Compare"
+            "name": "@Time"
           }
         ]
       }
     ],
-    "name": "Ceneo",
+    "name": "QA",
     "description": "",
-    "id": "ceneo",
+    "id": "qa",
     "keyword": "Feature",
-    "uri": "file:src/test/java/features/Ceneo.feature",
+    "uri": "file:src/test/java/features/QA.feature",
     "tags": []
   }
 ]

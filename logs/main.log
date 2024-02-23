@@ -5037,3 +5037,1391 @@
 2024-02-19 09:46:34,015 [main] Looking for element by selector By.xpath: //ul[@class='product-offers__list js_product-offers js_normal-offers js_async-offers-container-standard']/li[22]/div/div[1]
 2024-02-19 09:46:34,059 [main] Looking for element by selector By.xpath: //ul[@class='product-offers__list js_product-offers js_normal-offers js_async-offers-container-standard']/li[23]/div/div[1]
 2024-02-19 09:46:34,106 [main] Looking for element by selector By.xpath: //ul[@class='product-offers__list js_product-offers js_normal-offers js_async-offers-container-standard']/li[24]/div/div[1]
+2024-02-19 10:43:04,624 [main] +---------------------------------------------------------------------------+
+2024-02-19 10:43:04,627 [main] |                              Compare offers                               |
+2024-02-19 10:43:04,627 [main] +---------------------------------------------------------------------------+
+2024-02-19 10:43:07,723 [main] Click element by selector By.xpath: //*[contains(text(), 'Ok, zgadzam się')]
+2024-02-19 10:43:08,006 [main] THEN I search for product
+2024-02-19 10:43:08,013 [main] Set Text by selector By.id: form-head-search-q
+2024-02-19 10:43:08,396 [main] -----Scenario is FAILED-----
+2024-02-19 10:44:32,508 [main] +---------------------------------------------------------------------------+
+2024-02-19 10:44:32,512 [main] |                     Compare different colors by price                     |
+2024-02-19 10:44:32,513 [main] +---------------------------------------------------------------------------+
+2024-02-19 10:44:35,543 [main] Click element by selector By.xpath: //*[contains(text(), 'Ok, zgadzam się')]
+2024-02-19 10:44:35,770 [main] THEN I search for product
+2024-02-19 10:44:35,776 [main] Set Text by selector By.id: form-head-search-q
+2024-02-19 10:44:37,616 [main] Click element by selector By.xpath: //*[contains(text(),'Samsung Galaxy S23 Ultra 5G SM-S918 12/512GB Czarny')]/parent::*
+2024-02-19 10:44:38,830 [main] Click element by selector By.xpath: //span[@class='link link--accent show-remaining-offers__trigger js_remainingTrigger']
+2024-02-19 10:44:39,381 [main] WHEN I check prices by color
+2024-02-19 10:45:11,282 [main] +---------------------------------------------------------------------------+
+2024-02-19 10:45:11,286 [main] |                     Compare different colors by price                     |
+2024-02-19 10:45:11,286 [main] +---------------------------------------------------------------------------+
+2024-02-19 10:45:14,437 [main] Click element by selector By.xpath: //*[contains(text(), 'Ok, zgadzam się')]
+2024-02-19 10:45:14,885 [main] THEN I search for product
+2024-02-19 10:45:14,899 [main] Set Text by selector By.id: form-head-search-q
+2024-02-19 10:45:16,515 [main] Click element by selector By.xpath: //*[contains(text(),'Samsung Galaxy S23 Ultra 5G SM-S918 12/512GB Czarny')]/parent::*
+2024-02-19 10:45:17,869 [main] Click element by selector By.xpath: //span[@class='link link--accent show-remaining-offers__trigger js_remainingTrigger']
+2024-02-19 10:45:18,461 [main] WHEN I check prices by color
+2024-02-19 10:45:18,461 [main] Looking for element by selector By.xpath: //div[@class='product-family__options']//*
+2024-02-19 10:52:49,672 [main] +---------------------------------------------------------------------------+
+2024-02-19 10:52:49,676 [main] |                     Compare different colors by price                     |
+2024-02-19 10:52:49,676 [main] +---------------------------------------------------------------------------+
+2024-02-19 10:52:53,223 [main] Click element by selector By.xpath: //*[contains(text(), 'Ok, zgadzam się')]
+2024-02-19 10:52:53,564 [main] THEN I search for product
+2024-02-19 10:52:53,572 [main] Set Text by selector By.id: form-head-search-q
+2024-02-19 10:52:56,223 [main] Click element by selector By.xpath: //*[contains(text(),'Samsung Galaxy S23 Ultra 5G SM-S918 12/512GB Czarny')]/parent::*
+2024-02-19 10:52:56,905 [main] Click element by selector By.xpath: //span[@class='link link--accent show-remaining-offers__trigger js_remainingTrigger']
+2024-02-19 10:53:13,466 [main] +---------------------------------------------------------------------------+
+2024-02-19 10:53:13,474 [main] |                     Compare different colors by price                     |
+2024-02-19 10:53:13,475 [main] +---------------------------------------------------------------------------+
+2024-02-19 10:53:17,963 [main] Click element by selector By.xpath: //*[contains(text(), 'Ok, zgadzam się')]
+2024-02-19 10:53:18,321 [main] THEN I search for product
+2024-02-19 10:53:18,332 [main] Set Text by selector By.id: form-head-search-q
+2024-02-19 10:53:20,154 [main] Click element by selector By.xpath: //*[contains(text(),'Samsung Galaxy S23 Ultra 5G SM-S918 12/512GB Czarny')]/parent::*
+2024-02-19 10:53:22,496 [main] Click element by selector By.xpath: //span[@class='link link--accent show-remaining-offers__trigger js_remainingTrigger']
+2024-02-19 10:53:23,234 [main] WHEN I check prices by color
+2024-02-19 10:53:23,235 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-19 11:53:26,918 [main] +---------------------------------------------------------------------------+
+2024-02-19 11:53:26,922 [main] |                     Compare different colors by price                     |
+2024-02-19 11:53:26,922 [main] +---------------------------------------------------------------------------+
+2024-02-19 11:53:30,664 [main] Click element by selector By.xpath: //*[contains(text(), 'Ok, zgadzam się')]
+2024-02-19 11:53:30,948 [main] THEN I search for product
+2024-02-19 11:53:30,954 [main] Set Text by selector By.id: form-head-search-q
+2024-02-19 11:53:32,553 [main] Click element by selector By.xpath: //*[contains(text(),'Samsung Galaxy S23 Ultra 5G SM-S918 12/512GB Czarny')]/parent::*
+2024-02-19 11:53:33,792 [main] Click element by selector By.xpath: //span[@class='link link--accent show-remaining-offers__trigger js_remainingTrigger']
+2024-02-19 11:53:34,378 [main] WHEN I check prices by color
+2024-02-19 11:53:34,378 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-19 11:53:34,422 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-19 11:53:34,615 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[0]
+2024-02-19 11:54:01,032 [main] +---------------------------------------------------------------------------+
+2024-02-19 11:54:01,036 [main] |                     Compare different colors by price                     |
+2024-02-19 11:54:01,036 [main] +---------------------------------------------------------------------------+
+2024-02-19 11:54:04,038 [main] Click element by selector By.xpath: //*[contains(text(), 'Ok, zgadzam się')]
+2024-02-19 11:54:04,325 [main] THEN I search for product
+2024-02-19 11:54:04,331 [main] Set Text by selector By.id: form-head-search-q
+2024-02-19 11:54:05,944 [main] Click element by selector By.xpath: //*[contains(text(),'Samsung Galaxy S23 Ultra 5G SM-S918 12/512GB Czarny')]/parent::*
+2024-02-19 11:54:07,676 [main] Click element by selector By.xpath: //span[@class='link link--accent show-remaining-offers__trigger js_remainingTrigger']
+2024-02-19 11:54:08,211 [main] WHEN I check prices by color
+2024-02-19 11:54:08,211 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-19 11:54:08,269 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-19 11:54:08,299 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[1]
+2024-02-19 11:54:08,331 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-19 11:54:08,519 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[2]
+2024-02-19 11:54:08,554 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-19 11:54:08,640 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[3]
+2024-02-19 11:54:08,699 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-19 11:54:08,757 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[4]
+2024-02-19 11:54:08,805 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-19 11:54:08,839 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[5]
+2024-02-19 11:54:08,891 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-19 11:54:08,939 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[6]
+2024-02-19 11:54:09,042 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-19 11:54:09,077 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[7]
+2024-02-19 11:54:09,167 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-19 11:55:09,716 [main] +---------------------------------------------------------------------------+
+2024-02-19 11:55:09,722 [main] |                     Compare different colors by price                     |
+2024-02-19 11:55:09,723 [main] +---------------------------------------------------------------------------+
+2024-02-19 11:55:14,509 [main] Click element by selector By.xpath: //*[contains(text(), 'Ok, zgadzam się')]
+2024-02-19 11:55:14,807 [main] THEN I search for product
+2024-02-19 11:55:14,820 [main] Set Text by selector By.id: form-head-search-q
+2024-02-19 11:55:17,494 [main] Click element by selector By.xpath: //*[contains(text(),'Samsung Galaxy S23 Ultra 5G SM-S918 12/512GB Czarny')]/parent::*
+2024-02-19 11:55:19,256 [main] Click element by selector By.xpath: //span[@class='link link--accent show-remaining-offers__trigger js_remainingTrigger']
+2024-02-19 11:55:20,000 [main] WHEN I check prices by color
+2024-02-19 11:55:20,000 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-19 11:55:20,548 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[1]
+2024-02-19 11:55:20,744 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[2]
+2024-02-19 11:55:20,860 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[3]
+2024-02-19 11:55:21,021 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[4]
+2024-02-19 11:55:21,383 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[5]
+2024-02-19 11:55:21,438 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[6]
+2024-02-19 11:55:21,574 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[7]
+2024-02-19 12:09:58,141 [main] +---------------------------------------------------------------------------+
+2024-02-19 12:09:58,144 [main] |                     Compare different colors by price                     |
+2024-02-19 12:09:58,145 [main] +---------------------------------------------------------------------------+
+2024-02-19 12:10:01,461 [main] Click element by selector By.xpath: //*[contains(text(), 'Ok, zgadzam się')]
+2024-02-19 12:10:02,014 [main] THEN I search for product
+2024-02-19 12:10:02,029 [main] Set Text by selector By.id: form-head-search-q
+2024-02-19 12:10:03,408 [main] Click element by selector By.xpath: //*[contains(text(),'Samsung Galaxy S23 Ultra 5G SM-S918 12/512GB Czarny')]/parent::*
+2024-02-19 12:10:04,651 [main] Click element by selector By.xpath: //span[@class='link link--accent show-remaining-offers__trigger js_remainingTrigger']
+2024-02-19 12:10:05,228 [main] WHEN I check prices by color
+2024-02-19 12:10:05,228 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-19 12:10:05,281 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-19 12:10:05,311 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[1]
+2024-02-19 12:10:05,361 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[2]
+2024-02-19 12:10:05,386 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[3]
+2024-02-19 12:10:05,549 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[4]
+2024-02-19 12:10:05,613 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[5]
+2024-02-19 12:10:05,719 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[6]
+2024-02-19 12:10:05,766 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[7]
+2024-02-19 12:47:05,735 [main] +---------------------------------------------------------------------------+
+2024-02-19 12:47:05,738 [main] |                     Compare different colors by price                     |
+2024-02-19 12:47:05,739 [main] +---------------------------------------------------------------------------+
+2024-02-19 12:47:09,046 [main] Click element by selector By.xpath: //*[contains(text(), 'Ok, zgadzam się')]
+2024-02-19 12:47:09,455 [main] THEN I search for product
+2024-02-19 12:47:09,462 [main] Set Text by selector By.id: form-head-search-q
+2024-02-19 12:47:10,708 [main] Click element by selector By.xpath: //*[contains(text(),'Samsung Galaxy S23 Ultra 5G SM-S918 12/512GB Czarny')]/parent::*
+2024-02-19 12:47:12,014 [main] Click element by selector By.xpath: //span[@class='link link--accent show-remaining-offers__trigger js_remainingTrigger']
+2024-02-19 12:47:12,377 [main] WHEN I check prices by color
+2024-02-19 12:47:12,378 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-19 12:47:12,682 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-19 12:47:12,729 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[1]
+2024-02-19 12:47:12,764 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[2]
+2024-02-19 12:47:12,802 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[3]
+2024-02-19 12:47:12,831 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[4]
+2024-02-19 12:47:12,863 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[5]
+2024-02-19 12:47:12,915 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[6]
+2024-02-19 12:47:12,969 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[7]
+2024-02-19 12:47:12,999 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[8]
+2024-02-19 12:47:35,703 [main] +---------------------------------------------------------------------------+
+2024-02-19 12:47:35,707 [main] |                     Compare different colors by price                     |
+2024-02-19 12:47:35,707 [main] +---------------------------------------------------------------------------+
+2024-02-19 12:47:38,945 [main] Click element by selector By.xpath: //*[contains(text(), 'Ok, zgadzam się')]
+2024-02-19 12:47:39,667 [main] THEN I search for product
+2024-02-19 12:47:39,677 [main] Set Text by selector By.id: form-head-search-q
+2024-02-19 12:47:41,273 [main] Click element by selector By.xpath: //*[contains(text(),'Samsung Galaxy S23 Ultra 5G SM-S918 12/512GB Czarny')]/parent::*
+2024-02-19 12:47:42,475 [main] Click element by selector By.xpath: //span[@class='link link--accent show-remaining-offers__trigger js_remainingTrigger']
+2024-02-19 12:47:42,990 [main] WHEN I check prices by color
+2024-02-19 12:47:42,990 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-19 12:47:43,039 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-19 12:47:43,070 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[1]
+2024-02-19 12:47:43,102 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[2]
+2024-02-19 12:47:43,295 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[3]
+2024-02-19 12:47:43,325 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[4]
+2024-02-19 12:47:43,403 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[5]
+2024-02-19 12:47:43,437 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[6]
+2024-02-19 12:47:43,480 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[7]
+2024-02-19 12:47:43,563 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[8]
+2024-02-19 12:47:43,621 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-19 12:47:43,669 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[1]
+2024-02-19 12:47:43,707 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[2]
+2024-02-19 12:47:43,738 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[3]
+2024-02-19 12:47:43,787 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[4]
+2024-02-19 12:47:43,812 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[5]
+2024-02-19 12:47:43,843 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[6]
+2024-02-19 12:47:43,874 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[7]
+2024-02-19 12:47:43,907 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[8]
+2024-02-19 12:47:43,939 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-19 12:47:43,971 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[1]
+2024-02-19 12:47:44,054 [main] Get Text by selector By.xpath: //div[contains(@data-gaproductname, 'Czerwony')]//div[@class='product-offer-summary__price-box']//span[@class='price']/span[@class='value']
+2024-02-19 12:48:14,830 [main] -----Scenario is FAILED-----
+2024-02-19 12:50:40,336 [main] +---------------------------------------------------------------------------+
+2024-02-19 12:50:40,340 [main] |                     Compare different colors by price                     |
+2024-02-19 12:50:40,340 [main] +---------------------------------------------------------------------------+
+2024-02-19 12:50:55,307 [main] +---------------------------------------------------------------------------+
+2024-02-19 12:50:55,310 [main] |                     Compare different colors by price                     |
+2024-02-19 12:50:55,311 [main] +---------------------------------------------------------------------------+
+2024-02-19 12:50:59,160 [main] Click element by selector By.xpath: //*[contains(text(), 'Ok, zgadzam się')]
+2024-02-19 12:50:59,638 [main] THEN I search for product
+2024-02-19 12:50:59,645 [main] Set Text by selector By.id: form-head-search-q
+2024-02-19 12:51:01,071 [main] Click element by selector By.xpath: //*[contains(text(),'Samsung Galaxy S23 Ultra 5G SM-S918 12/512GB Czarny')]/parent::*
+2024-02-19 12:51:02,342 [main] Click element by selector By.xpath: //span[@class='link link--accent show-remaining-offers__trigger js_remainingTrigger']
+2024-02-19 12:51:02,858 [main] WHEN I check prices by color
+2024-02-19 12:51:02,858 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-19 12:51:02,915 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-19 12:51:02,951 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[1]
+2024-02-19 12:51:03,145 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[2]
+2024-02-19 12:51:03,190 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[3]
+2024-02-19 12:51:03,271 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[4]
+2024-02-19 12:51:03,314 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[5]
+2024-02-19 12:51:03,385 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[6]
+2024-02-19 12:51:03,436 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[7]
+2024-02-19 12:51:03,490 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[8]
+2024-02-19 12:51:03,540 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-19 12:51:03,571 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[1]
+2024-02-19 12:51:03,603 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[2]
+2024-02-19 12:51:03,659 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[3]
+2024-02-19 12:51:03,689 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[4]
+2024-02-19 12:51:03,719 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[5]
+2024-02-19 12:51:03,752 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[6]
+2024-02-19 12:51:03,781 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[7]
+2024-02-19 12:51:03,817 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[8]
+2024-02-19 12:51:03,847 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-19 12:51:03,875 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[1]
+2024-02-19 12:51:03,949 [main] Get Text by selector By.xpath: //div[contains(@data-gaproductname, 'Czarny')]//div[@class='product-offer-summary__price-box']//span[@class='price']/span[@class='value']
+2024-02-19 12:51:34,751 [main] -----Scenario is FAILED-----
+2024-02-20 09:33:20,658 [main] +---------------------------------------------------------------------------+
+2024-02-20 09:33:20,674 [main] |                     Compare different colors by price                     |
+2024-02-20 09:33:20,674 [main] +---------------------------------------------------------------------------+
+2024-02-20 09:33:24,193 [main] Click element by selector By.xpath: //*[contains(text(), 'Ok, zgadzam się')]
+2024-02-20 09:33:24,315 [main] THEN I search for product
+2024-02-20 09:33:24,321 [main] Set Text by selector By.id: form-head-search-q
+2024-02-20 09:33:26,169 [main] Click element by selector By.xpath: //*[contains(text(),'Samsung Galaxy S23 Ultra 5G SM-S918 12/512GB Czarny')]/parent::*
+2024-02-20 09:33:27,387 [main] Click element by selector By.xpath: //span[@class='link link--accent show-remaining-offers__trigger js_remainingTrigger']
+2024-02-20 09:33:27,945 [main] WHEN I check prices by color
+2024-02-20 09:33:27,946 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 09:33:27,999 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 09:33:28,029 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[1]
+2024-02-20 09:33:28,293 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[2]
+2024-02-20 09:33:28,379 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[3]
+2024-02-20 09:33:28,416 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[4]
+2024-02-20 09:33:28,493 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[5]
+2024-02-20 09:33:28,547 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[6]
+2024-02-20 09:33:28,576 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[7]
+2024-02-20 09:33:28,614 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[8]
+2024-02-20 09:33:28,675 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 09:33:28,725 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[1]
+2024-02-20 09:33:28,775 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[2]
+2024-02-20 09:33:28,810 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[3]
+2024-02-20 09:33:28,842 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[4]
+2024-02-20 09:33:28,904 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[5]
+2024-02-20 09:33:28,939 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[6]
+2024-02-20 09:33:28,968 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[7]
+2024-02-20 09:33:28,998 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[8]
+2024-02-20 09:33:29,035 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 09:33:29,063 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[1]
+2024-02-20 09:33:29,185 [main] Get Text by selector By.xpath: //div[contains(@data-gaproductname, 'Czarny')]//div[@class='product-offer-summary__price-box']//span[@class='price']/span[@class='value']
+2024-02-20 09:34:00,002 [main] -----Scenario is FAILED-----
+2024-02-20 09:50:16,701 [main] +---------------------------------------------------------------------------+
+2024-02-20 09:50:16,705 [main] |                     Compare different colors by price                     |
+2024-02-20 09:50:16,705 [main] +---------------------------------------------------------------------------+
+2024-02-20 09:50:20,628 [main] Click element by selector By.xpath: //*[contains(text(), 'Ok, zgadzam się')]
+2024-02-20 09:50:20,808 [main] THEN I search for product
+2024-02-20 09:50:20,815 [main] Set Text by selector By.id: form-head-search-q
+2024-02-20 09:50:22,389 [main] Click element by selector By.xpath: //*[contains(text(),'Samsung Galaxy S23 Ultra 5G SM-S918 12/512GB Czarny')]/parent::*
+2024-02-20 09:50:23,648 [main] Click element by selector By.xpath: //span[@class='link link--accent show-remaining-offers__trigger js_remainingTrigger']
+2024-02-20 09:50:24,217 [main] WHEN I check prices by color
+2024-02-20 09:50:24,218 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 09:50:24,261 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 09:50:24,324 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[1]
+2024-02-20 09:50:24,478 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[2]
+2024-02-20 09:50:24,596 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[3]
+2024-02-20 09:50:24,628 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[4]
+2024-02-20 09:50:24,661 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[5]
+2024-02-20 09:50:24,735 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[6]
+2024-02-20 09:50:24,778 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[7]
+2024-02-20 09:50:24,814 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[8]
+2024-02-20 09:50:24,860 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 09:50:24,892 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[1]
+2024-02-20 09:50:24,928 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[2]
+2024-02-20 09:50:24,986 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[3]
+2024-02-20 09:50:25,026 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[4]
+2024-02-20 09:50:25,060 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[5]
+2024-02-20 09:50:25,146 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[6]
+2024-02-20 09:50:25,175 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[7]
+2024-02-20 09:50:25,210 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[8]
+2024-02-20 09:50:25,240 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 09:50:25,275 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[1]
+2024-02-20 09:50:25,376 [main] Get Text by selector By.xpath: //div[contains(@data-gaproductname, 'Czerwony')]//div[@class='product-offer-summary__price-box']//span[@class='price']/span[@class='value']
+2024-02-20 09:51:07,430 [main] +---------------------------------------------------------------------------+
+2024-02-20 09:51:07,433 [main] |                     Compare different colors by price                     |
+2024-02-20 09:51:07,434 [main] +---------------------------------------------------------------------------+
+2024-02-20 09:51:10,443 [main] Click element by selector By.xpath: //*[contains(text(), 'Ok, zgadzam się')]
+2024-02-20 09:51:10,713 [main] THEN I search for product
+2024-02-20 09:51:10,720 [main] Set Text by selector By.id: form-head-search-q
+2024-02-20 09:51:12,167 [main] Click element by selector By.xpath: //*[contains(text(),'Samsung Galaxy S23 Ultra 5G SM-S918 12/512GB Czarny')]/parent::*
+2024-02-20 09:51:13,576 [main] Click element by selector By.xpath: //span[@class='link link--accent show-remaining-offers__trigger js_remainingTrigger']
+2024-02-20 09:51:14,247 [main] WHEN I check prices by color
+2024-02-20 09:51:14,248 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 09:51:14,291 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 09:51:14,473 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[1]
+2024-02-20 09:51:14,523 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[2]
+2024-02-20 09:51:14,608 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[3]
+2024-02-20 09:51:14,659 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[4]
+2024-02-20 09:51:14,735 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[5]
+2024-02-20 09:51:14,794 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[6]
+2024-02-20 09:51:14,846 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[7]
+2024-02-20 09:51:14,896 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[8]
+2024-02-20 09:51:14,944 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 09:51:15,020 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[1]
+2024-02-20 09:51:15,071 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[2]
+2024-02-20 09:51:15,158 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[3]
+2024-02-20 09:51:15,187 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[4]
+2024-02-20 09:51:15,223 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[5]
+2024-02-20 09:51:15,255 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[6]
+2024-02-20 09:51:15,285 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[7]
+2024-02-20 09:51:15,315 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[8]
+2024-02-20 09:51:15,362 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 09:51:15,398 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[2]
+2024-02-20 09:51:16,240 [main] Get Text by selector By.xpath: //div[contains(@data-gaproductname, 'Czerwony')]//div[@class='product-offer-summary__price-box']//span[@class='price']/span[@class='value']
+2024-02-20 09:51:16,564 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[3]
+2024-02-20 09:51:17,725 [main] Get Text by selector By.xpath: //div[contains(@data-gaproductname, 'Jasnoniebieski')]//div[@class='product-offer-summary__price-box']//span[@class='price']/span[@class='value']
+2024-02-20 09:51:18,006 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[4]
+2024-02-20 09:51:18,741 [main] Get Text by selector By.xpath: //div[contains(@data-gaproductname, 'Jasnozielony')]//div[@class='product-offer-summary__price-box']//span[@class='price']/span[@class='value']
+2024-02-20 09:51:49,766 [main] -----Scenario is FAILED-----
+2024-02-20 10:22:55,650 [main] +---------------------------------------------------------------------------+
+2024-02-20 10:22:55,653 [main] |                     Compare different colors by price                     |
+2024-02-20 10:22:55,654 [main] +---------------------------------------------------------------------------+
+2024-02-20 10:22:58,647 [main] Click element by selector By.xpath: //*[contains(text(), 'Ok, zgadzam się')]
+2024-02-20 10:22:59,022 [main] THEN I search for product
+2024-02-20 10:22:59,027 [main] Set Text by selector By.id: form-head-search-q
+2024-02-20 10:23:00,482 [main] Click element by selector By.xpath: //*[contains(text(),'Samsung Galaxy S23 Ultra 5G SM-S918 12/512GB Czarny')]/parent::*
+2024-02-20 10:23:04,761 [main] Click element by selector By.xpath: //span[@class='link link--accent show-remaining-offers__trigger js_remainingTrigger']
+2024-02-20 10:23:05,244 [main] WHEN I check prices by color
+2024-02-20 10:23:05,244 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 10:23:05,404 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 10:23:05,574 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[1]
+2024-02-20 10:23:05,606 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[2]
+2024-02-20 10:23:05,668 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[3]
+2024-02-20 10:23:05,713 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[4]
+2024-02-20 10:23:05,793 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[5]
+2024-02-20 10:23:05,846 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[6]
+2024-02-20 10:23:05,894 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[7]
+2024-02-20 10:23:05,951 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[8]
+2024-02-20 10:23:06,000 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 10:23:06,036 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[1]
+2024-02-20 10:23:06,095 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[2]
+2024-02-20 10:23:06,164 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[3]
+2024-02-20 10:23:06,229 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[4]
+2024-02-20 10:23:06,274 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[5]
+2024-02-20 10:23:06,327 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[6]
+2024-02-20 10:23:06,363 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[7]
+2024-02-20 10:23:06,393 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[8]
+2024-02-20 10:23:06,444 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 10:23:06,475 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[2]
+2024-02-20 10:23:07,391 [main] Get Text by selector By.xpath: //div[@class='product-top__price-column js_column_product_offer ']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 10:23:38,454 [main] -----Scenario is FAILED-----
+2024-02-20 10:26:08,432 [main] +---------------------------------------------------------------------------+
+2024-02-20 10:26:08,436 [main] |                     Compare different colors by price                     |
+2024-02-20 10:26:08,436 [main] +---------------------------------------------------------------------------+
+2024-02-20 10:26:11,589 [main] Click element by selector By.xpath: //*[contains(text(), 'Ok, zgadzam się')]
+2024-02-20 10:26:11,771 [main] THEN I search for product
+2024-02-20 10:26:11,778 [main] Set Text by selector By.id: form-head-search-q
+2024-02-20 10:26:13,313 [main] Click element by selector By.xpath: //*[contains(text(),'Samsung Galaxy S23 Ultra 5G SM-S918 12/512GB Czarny')]/parent::*
+2024-02-20 10:26:16,004 [main] Click element by selector By.xpath: //span[@class='link link--accent show-remaining-offers__trigger js_remainingTrigger']
+2024-02-20 10:26:17,395 [main] WHEN I check prices by color
+2024-02-20 10:26:17,395 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 10:26:17,648 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 10:26:17,755 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[1]
+2024-02-20 10:26:17,861 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[2]
+2024-02-20 10:26:18,003 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[3]
+2024-02-20 10:26:18,059 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[4]
+2024-02-20 10:26:18,135 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[5]
+2024-02-20 10:26:18,196 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[6]
+2024-02-20 10:26:18,256 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[7]
+2024-02-20 10:26:18,302 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[8]
+2024-02-20 10:26:18,348 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 10:26:18,400 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[1]
+2024-02-20 10:26:18,459 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[2]
+2024-02-20 10:26:18,492 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[3]
+2024-02-20 10:26:18,522 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[4]
+2024-02-20 10:26:18,573 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[5]
+2024-02-20 10:26:18,617 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[6]
+2024-02-20 10:26:18,645 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[7]
+2024-02-20 10:26:18,675 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[8]
+2024-02-20 10:26:18,706 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 10:26:18,741 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[2]
+2024-02-20 10:26:19,703 [main] Get Text by selector By.xpath: //div[@class='product-top__price-column js_column_product_offer ']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 10:26:51,053 [main] -----Scenario is FAILED-----
+2024-02-20 10:32:34,295 [main] +---------------------------------------------------------------------------+
+2024-02-20 10:32:34,299 [main] |                     Compare different colors by price                     |
+2024-02-20 10:32:34,299 [main] +---------------------------------------------------------------------------+
+2024-02-20 10:32:37,474 [main] Click element by selector By.xpath: //*[contains(text(), 'Ok, zgadzam się')]
+2024-02-20 10:32:37,703 [main] THEN I search for product
+2024-02-20 10:32:37,710 [main] Set Text by selector By.id: form-head-search-q
+2024-02-20 10:32:39,483 [main] Click element by selector By.xpath: //*[contains(text(),'Samsung Galaxy S23 Ultra 5G SM-S918 12/512GB Czarny')]/parent::*
+2024-02-20 10:32:41,422 [main] Click element by selector By.xpath: //span[@class='link link--accent show-remaining-offers__trigger js_remainingTrigger']
+2024-02-20 10:32:41,987 [main] WHEN I check prices by color
+2024-02-20 10:32:41,988 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 10:32:42,020 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 10:32:42,053 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[1]
+2024-02-20 10:32:42,263 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[2]
+2024-02-20 10:32:42,297 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[3]
+2024-02-20 10:32:42,375 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[4]
+2024-02-20 10:32:42,404 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[5]
+2024-02-20 10:32:42,433 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[6]
+2024-02-20 10:32:42,511 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[7]
+2024-02-20 10:32:42,559 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[8]
+2024-02-20 10:32:42,587 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 10:32:42,621 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[1]
+2024-02-20 10:32:42,648 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[2]
+2024-02-20 10:32:42,682 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[3]
+2024-02-20 10:32:42,721 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[4]
+2024-02-20 10:32:42,770 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[5]
+2024-02-20 10:32:42,800 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[6]
+2024-02-20 10:32:42,831 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[7]
+2024-02-20 10:32:42,898 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[8]
+2024-02-20 10:32:42,927 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 10:32:42,959 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[2]
+2024-02-20 10:32:43,855 [main] Get Text by selector By.xpath: //div[@class='product-offer-summary']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 10:32:44,116 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[3]
+2024-02-20 10:32:44,927 [main] Get Text by selector By.xpath: //div[@class='product-offer-summary']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 10:32:45,205 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[4]
+2024-02-20 10:32:45,877 [main] Get Text by selector By.xpath: //div[@class='product-offer-summary']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 10:32:46,140 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[5]
+2024-02-20 10:32:47,018 [main] Get Text by selector By.xpath: //div[@class='product-offer-summary']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 10:32:47,355 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[6]
+2024-02-20 10:32:48,265 [main] Get Text by selector By.xpath: //div[@class='product-offer-summary']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 10:32:48,494 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[7]
+2024-02-20 10:32:48,593 [main] Get Text by selector By.xpath: //div[@class='product-offer-summary']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 10:32:48,631 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[8]
+2024-02-20 10:32:48,701 [main] Get Text by selector By.xpath: //div[@class='product-offer-summary']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 10:32:48,740 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[9]
+2024-02-20 10:33:19,510 [main] -----Scenario is FAILED-----
+2024-02-20 10:34:28,866 [main] +---------------------------------------------------------------------------+
+2024-02-20 10:34:28,870 [main] |                     Compare different colors by price                     |
+2024-02-20 10:34:28,870 [main] +---------------------------------------------------------------------------+
+2024-02-20 10:34:40,546 [main] Click element by selector By.xpath: //*[contains(text(), 'Ok, zgadzam się')]
+2024-02-20 10:34:40,677 [main] THEN I search for product
+2024-02-20 10:34:40,685 [main] Set Text by selector By.id: form-head-search-q
+2024-02-20 10:34:42,143 [main] Click element by selector By.xpath: //*[contains(text(),'Samsung Galaxy S23 Ultra 5G SM-S918 12/512GB Czarny')]/parent::*
+2024-02-20 10:34:43,483 [main] Click element by selector By.xpath: //span[@class='link link--accent show-remaining-offers__trigger js_remainingTrigger']
+2024-02-20 10:34:44,080 [main] WHEN I check prices by color
+2024-02-20 10:34:44,080 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 10:34:44,133 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 10:34:44,303 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[1]
+2024-02-20 10:34:44,375 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[2]
+2024-02-20 10:34:44,497 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[3]
+2024-02-20 10:34:44,603 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[4]
+2024-02-20 10:34:44,679 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[5]
+2024-02-20 10:34:44,771 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[6]
+2024-02-20 10:34:44,890 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[7]
+2024-02-20 10:34:44,957 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[8]
+2024-02-20 10:34:45,274 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 10:34:45,358 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[1]
+2024-02-20 10:34:45,490 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[2]
+2024-02-20 10:34:45,542 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[3]
+2024-02-20 10:34:45,606 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[4]
+2024-02-20 10:34:45,665 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[5]
+2024-02-20 10:34:45,695 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[6]
+2024-02-20 10:34:45,742 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[7]
+2024-02-20 10:34:45,787 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[8]
+2024-02-20 10:34:45,818 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 10:34:45,869 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[1]
+2024-02-20 10:34:46,018 [main] Get Text by selector By.xpath: //div[@class='product-offer-summary']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 10:34:46,067 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[2]
+2024-02-20 10:34:47,011 [main] Get Text by selector By.xpath: //div[@class='product-offer-summary']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 10:34:47,506 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[3]
+2024-02-20 10:34:48,441 [main] Get Text by selector By.xpath: //div[@class='product-offer-summary']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 10:34:48,801 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[4]
+2024-02-20 10:34:49,724 [main] Get Text by selector By.xpath: //div[@class='product-offer-summary']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 10:34:50,161 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[5]
+2024-02-20 10:34:51,035 [main] Get Text by selector By.xpath: //div[@class='product-offer-summary']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 10:34:51,512 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[6]
+2024-02-20 10:34:52,280 [main] Get Text by selector By.xpath: //div[@class='product-offer-summary']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 10:34:52,645 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[7]
+2024-02-20 10:34:52,715 [main] Get Text by selector By.xpath: //div[@class='product-offer-summary']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 10:34:52,743 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[8]
+2024-02-20 10:34:52,804 [main] Get Text by selector By.xpath: //div[@class='product-offer-summary']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 10:34:52,834 [main] -----Scenario is FAILED-----
+2024-02-20 10:39:28,603 [main] +---------------------------------------------------------------------------+
+2024-02-20 10:39:28,606 [main] |                     Compare different colors by price                     |
+2024-02-20 10:39:28,607 [main] +---------------------------------------------------------------------------+
+2024-02-20 10:39:31,944 [main] Click element by selector By.xpath: //*[contains(text(), 'Ok, zgadzam się')]
+2024-02-20 10:39:32,079 [main] THEN I search for product
+2024-02-20 10:39:32,085 [main] Set Text by selector By.id: form-head-search-q
+2024-02-20 10:39:33,685 [main] Click element by selector By.xpath: //*[contains(text(),'Samsung Galaxy S23 Ultra 5G SM-S918 12/512GB Czarny')]/parent::*
+2024-02-20 10:39:35,496 [main] Click element by selector By.xpath: //span[@class='link link--accent show-remaining-offers__trigger js_remainingTrigger']
+2024-02-20 10:39:36,046 [main] WHEN I check prices by color
+2024-02-20 10:39:36,046 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 10:39:36,093 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 10:39:36,282 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[1]
+2024-02-20 10:39:36,340 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[2]
+2024-02-20 10:39:36,413 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[3]
+2024-02-20 10:39:36,462 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[4]
+2024-02-20 10:39:36,530 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[5]
+2024-02-20 10:39:36,578 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[6]
+2024-02-20 10:39:36,628 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[7]
+2024-02-20 10:39:36,724 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[8]
+2024-02-20 10:39:36,812 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 10:39:36,854 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[1]
+2024-02-20 10:39:36,895 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[2]
+2024-02-20 10:39:36,977 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[3]
+2024-02-20 10:39:37,008 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[4]
+2024-02-20 10:39:37,045 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[5]
+2024-02-20 10:39:37,135 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[6]
+2024-02-20 10:39:37,185 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[7]
+2024-02-20 10:39:37,209 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[8]
+2024-02-20 10:39:37,242 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 10:39:37,317 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[1]
+2024-02-20 10:39:37,412 [main] Get Text by selector By.xpath: //div[@class='product-offer-summary']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 10:39:37,462 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[2]
+2024-02-20 10:39:38,198 [main] Get Text by selector By.xpath: //div[@class='product-offer-summary']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 10:39:38,458 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[3]
+2024-02-20 10:39:39,173 [main] Get Text by selector By.xpath: //div[@class='product-offer-summary']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 10:39:39,475 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[4]
+2024-02-20 10:39:40,330 [main] Get Text by selector By.xpath: //div[@class='product-offer-summary']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 10:39:40,615 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[5]
+2024-02-20 10:39:41,519 [main] Get Text by selector By.xpath: //div[@class='product-offer-summary']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 10:39:41,854 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[6]
+2024-02-20 10:39:42,565 [main] Get Text by selector By.xpath: //div[@class='product-offer-summary']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 10:39:42,883 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[7]
+2024-02-20 10:39:42,952 [main] Get Text by selector By.xpath: //div[@class='product-offer-summary']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 10:39:42,988 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[8]
+2024-02-20 10:39:43,060 [main] Get Text by selector By.xpath: //div[@class='product-offer-summary']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 11:36:27,933 [main] +---------------------------------------------------------------------------+
+2024-02-20 11:36:27,938 [main] |                     Compare different colors by price                     |
+2024-02-20 11:36:27,938 [main] +---------------------------------------------------------------------------+
+2024-02-20 11:36:31,507 [main] Click element by selector By.xpath: //*[contains(text(), 'Ok, zgadzam się')]
+2024-02-20 11:36:31,826 [main] THEN I search for product
+2024-02-20 11:36:31,831 [main] Set Text by selector By.id: form-head-search-q
+2024-02-20 11:36:33,426 [main] Click element by selector By.xpath: //*[contains(text(),'Samsung Galaxy S23 Ultra 5G SM-S918 12/512GB Czarny')]/parent::*
+2024-02-20 11:36:34,761 [main] Click element by selector By.xpath: //span[@class='link link--accent show-remaining-offers__trigger js_remainingTrigger']
+2024-02-20 11:36:35,335 [main] WHEN I check prices by color
+2024-02-20 11:36:35,335 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 11:36:35,459 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 11:36:35,548 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[1]
+2024-02-20 11:36:35,596 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[2]
+2024-02-20 11:36:35,681 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[3]
+2024-02-20 11:36:35,731 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[4]
+2024-02-20 11:36:35,811 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[5]
+2024-02-20 11:36:35,867 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[6]
+2024-02-20 11:36:35,932 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[7]
+2024-02-20 11:36:35,973 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[8]
+2024-02-20 11:36:36,078 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 11:36:36,115 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[1]
+2024-02-20 11:36:36,194 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[2]
+2024-02-20 11:36:36,229 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[3]
+2024-02-20 11:36:36,260 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[4]
+2024-02-20 11:36:36,329 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[5]
+2024-02-20 11:36:36,354 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[6]
+2024-02-20 11:36:36,391 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[7]
+2024-02-20 11:36:36,436 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[8]
+2024-02-20 11:36:36,464 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 11:36:36,496 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[1]
+2024-02-20 11:36:36,627 [main] Get Text by selector By.xpath: //div[@class='product-offer-summary']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 11:36:36,663 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[2]
+2024-02-20 11:36:37,897 [main] Get Text by selector By.xpath: //div[@class='product-offer-summary']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 11:36:38,172 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[3]
+2024-02-20 11:36:39,057 [main] Get Text by selector By.xpath: //div[@class='product-offer-summary']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 11:36:39,309 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[4]
+2024-02-20 11:36:40,046 [main] Get Text by selector By.xpath: //div[@class='product-offer-summary']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 11:36:40,325 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[5]
+2024-02-20 11:36:41,427 [main] Get Text by selector By.xpath: //div[@class='product-offer-summary']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 11:36:41,754 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[6]
+2024-02-20 11:36:42,668 [main] Get Text by selector By.xpath: //div[@class='product-offer-summary']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 11:36:43,022 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[7]
+2024-02-20 11:36:43,130 [main] Get Text by selector By.xpath: //div[@class='product-offer-summary']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 11:36:43,179 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[8]
+2024-02-20 11:36:43,257 [main] Get Text by selector By.xpath: //div[@class='product-offer-summary']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 11:47:27,074 [main] +---------------------------------------------------------------------------+
+2024-02-20 11:47:27,078 [main] |                     Compare different colors by price                     |
+2024-02-20 11:47:27,078 [main] +---------------------------------------------------------------------------+
+2024-02-20 11:47:30,305 [main] Click element by selector By.xpath: //*[contains(text(), 'Ok, zgadzam się')]
+2024-02-20 11:47:30,431 [main] THEN I search for product
+2024-02-20 11:47:30,437 [main] Set Text by selector By.id: form-head-search-q
+2024-02-20 11:47:31,984 [main] Click element by selector By.xpath: //*[contains(text(),'Samsung Galaxy S23 Ultra 5G SM-S918 12/512GB Czarny')]/parent::*
+2024-02-20 11:47:33,419 [main] Click element by selector By.xpath: //span[@class='link link--accent show-remaining-offers__trigger js_remainingTrigger']
+2024-02-20 11:47:33,890 [main] WHEN I check prices by color
+2024-02-20 11:47:33,890 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 11:47:34,159 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 11:47:34,189 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[1]
+2024-02-20 11:47:34,219 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[2]
+2024-02-20 11:47:34,280 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[3]
+2024-02-20 11:47:34,327 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[4]
+2024-02-20 11:47:34,353 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[5]
+2024-02-20 11:47:34,435 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[6]
+2024-02-20 11:47:34,510 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[7]
+2024-02-20 11:47:34,586 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[8]
+2024-02-20 11:47:34,632 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 11:47:34,687 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[1]
+2024-02-20 11:47:34,720 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[2]
+2024-02-20 11:47:34,751 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[3]
+2024-02-20 11:47:34,779 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[4]
+2024-02-20 11:47:34,821 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[5]
+2024-02-20 11:47:34,865 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[6]
+2024-02-20 11:47:34,903 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[7]
+2024-02-20 11:47:34,933 [main] Get Text by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[8]
+2024-02-20 11:47:34,964 [main] Looking for element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//*
+2024-02-20 11:47:34,999 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[1]
+2024-02-20 11:47:35,094 [main] Get Text by selector By.xpath: //div[@class='product-offer-summary']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 11:47:35,183 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[2]
+2024-02-20 11:47:35,935 [main] Get Text by selector By.xpath: //div[@class='product-offer-summary']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 11:47:36,264 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[3]
+2024-02-20 11:47:37,195 [main] Get Text by selector By.xpath: //div[@class='product-offer-summary']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 11:47:37,395 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[4]
+2024-02-20 11:47:38,421 [main] Get Text by selector By.xpath: //div[@class='product-offer-summary']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 11:47:38,631 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[5]
+2024-02-20 11:47:39,560 [main] Get Text by selector By.xpath: //div[@class='product-offer-summary']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 11:47:39,835 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[6]
+2024-02-20 11:47:40,587 [main] Get Text by selector By.xpath: //div[@class='product-offer-summary']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 11:47:40,855 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[7]
+2024-02-20 11:47:40,990 [main] Get Text by selector By.xpath: //div[@class='product-offer-summary']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 11:47:41,052 [main] Click element by selector By.xpath: //div[div[contains(text(), 'Wersja kolorystyczna:')]]//div[@class='product-family__options']//a[8]
+2024-02-20 11:47:41,117 [main] Get Text by selector By.xpath: //div[@class='product-offer-summary']//span[@class='price-format nowrap']/span[@class='price']/span[@class='value']
+2024-02-20 15:07:20,803 [main] +---------------------------------------------------------------------------+
+2024-02-20 15:07:20,807 [main] |              Detect how many products without non available               |
+2024-02-20 15:07:20,807 [main] +---------------------------------------------------------------------------+
+2024-02-20 15:07:25,159 [main] THEN I search product
+2024-02-20 15:08:19,669 [main] +---------------------------------------------------------------------------+
+2024-02-20 15:08:19,673 [main] |              Detect how many products without non available               |
+2024-02-20 15:08:19,673 [main] +---------------------------------------------------------------------------+
+2024-02-20 15:08:23,890 [main] THEN I search product
+2024-02-20 15:08:23,890 [main] Set Text by selector By.xpath: //input[@placeholder='Czego szukasz?']
+2024-02-20 15:32:16,304 [main] +---------------------------------------------------------------------------+
+2024-02-20 15:32:16,307 [main] |              Detect how many products without non available               |
+2024-02-20 15:32:16,308 [main] +---------------------------------------------------------------------------+
+2024-02-20 15:32:23,532 [main] THEN I search product
+2024-02-20 15:32:23,532 [main] Set Text by selector By.xpath: //input[@placeholder='Czego szukasz?']
+2024-02-20 15:32:23,813 [main] Click element by selector By.xpath: //span[text()='ADATA']
+2024-02-21 09:45:59,684 [main] +---------------------------------------------------------------------------+
+2024-02-21 09:45:59,688 [main] |              Detect how many products without non available               |
+2024-02-21 09:45:59,688 [main] +---------------------------------------------------------------------------+
+2024-02-21 09:46:04,247 [main] THEN I search product
+2024-02-21 09:46:04,247 [main] Set Text by selector By.xpath: //input[@placeholder='Czego szukasz?']
+2024-02-21 09:46:04,552 [main] Click element by selector By.xpath: //span[text()='ADATA']
+2024-02-21 09:55:57,653 [main] +---------------------------------------------------------------------------+
+2024-02-21 09:55:57,657 [main] |              Detect how many products without non available               |
+2024-02-21 09:55:57,657 [main] +---------------------------------------------------------------------------+
+2024-02-21 09:56:01,389 [main] THEN I search product
+2024-02-21 09:56:01,390 [main] Set Text by selector By.xpath: //input[@placeholder='Czego szukasz?']
+2024-02-21 09:56:01,652 [main] Click element by selector By.xpath: //span[text()='ADATA']
+2024-02-21 09:56:41,905 [main] +---------------------------------------------------------------------------+
+2024-02-21 09:56:41,908 [main] |              Detect how many products without non available               |
+2024-02-21 09:56:41,908 [main] +---------------------------------------------------------------------------+
+2024-02-21 09:56:45,479 [main] THEN I search product
+2024-02-21 09:56:45,480 [main] Set Text by selector By.xpath: //input[@placeholder='Czego szukasz?']
+2024-02-21 09:56:45,960 [main] Click element by selector By.xpath: //span[text()='ADATA']
+2024-02-21 09:56:48,360 [main] Looking for element by selector By.xpath: //div[@id='listing-container']/div[1]
+2024-02-21 09:56:48,426 [main] Looking for element by selector By.xpath: //div[@id='listing-container']/div[2]
+2024-02-21 09:56:48,563 [main] Looking for element by selector By.xpath: //div[@id='listing-container']/div[3]
+2024-02-21 09:56:48,814 [main] Looking for element by selector By.xpath: //div[@id='listing-container']/div[4]
+2024-02-21 09:56:48,847 [main] Looking for element by selector By.xpath: //div[@id='listing-container']/div[5]
+2024-02-21 09:56:48,876 [main] Looking for element by selector By.xpath: //div[@id='listing-container']/div[6]
+2024-02-21 09:56:48,907 [main] Looking for element by selector By.xpath: //div[@id='listing-container']/div[7]
+2024-02-21 09:56:48,938 [main] Looking for element by selector By.xpath: //div[@id='listing-container']/div[8]
+2024-02-21 09:56:48,969 [main] Looking for element by selector By.xpath: //div[@id='listing-container']/div[9]
+2024-02-21 09:56:48,999 [main] Looking for element by selector By.xpath: //div[@id='listing-container']/div[10]
+2024-02-21 09:56:49,032 [main] Looking for element by selector By.xpath: //div[@id='listing-container']/div[11]
+2024-02-21 09:56:49,061 [main] Looking for element by selector By.xpath: //div[@id='listing-container']/div[12]
+2024-02-21 09:56:49,091 [main] Looking for element by selector By.xpath: //div[@id='listing-container']/div[13]
+2024-02-21 09:56:49,120 [main] Looking for element by selector By.xpath: //div[@id='listing-container']/div[14]
+2024-02-21 09:56:49,151 [main] Looking for element by selector By.xpath: //div[@id='listing-container']/div[15]
+2024-02-21 09:56:49,182 [main] Looking for element by selector By.xpath: //div[@id='listing-container']/div[16]
+2024-02-21 09:56:49,214 [main] Looking for element by selector By.xpath: //div[@id='listing-container']/div[17]
+2024-02-21 09:56:49,242 [main] Looking for element by selector By.xpath: //div[@id='listing-container']/div[18]
+2024-02-21 09:56:49,274 [main] Looking for element by selector By.xpath: //div[@id='listing-container']/div[19]
+2024-02-21 10:25:12,502 [main] +---------------------------------------------------------------------------+
+2024-02-21 10:25:12,506 [main] |              Detect how many products without non available               |
+2024-02-21 10:25:12,507 [main] +---------------------------------------------------------------------------+
+2024-02-21 10:25:15,912 [main] THEN I search product
+2024-02-21 10:25:15,912 [main] Set Text by selector By.xpath: //input[@placeholder='Czego szukasz?']
+2024-02-21 10:25:16,362 [main] Click element by selector By.xpath: //span[text()='ADATA']
+2024-02-21 10:25:18,748 [main] Looking for element by selector By.xpath: //div[text()='Czasowo niedostępny']
+2024-02-21 10:28:03,079 [main] +---------------------------------------------------------------------------+
+2024-02-21 10:28:03,084 [main] |              Detect how many products without non available               |
+2024-02-21 10:28:03,084 [main] +---------------------------------------------------------------------------+
+2024-02-21 10:28:07,530 [main] THEN I search product
+2024-02-21 10:28:07,530 [main] Set Text by selector By.xpath: //input[@placeholder='Czego szukasz?']
+2024-02-21 10:28:08,023 [main] Click element by selector By.xpath: //span[text()='ADATA']
+2024-02-21 10:28:10,453 [main] Looking for element by selector By.xpath: //div[text()='Czasowo niedostępny']
+2024-02-21 10:39:32,899 [main] +---------------------------------------------------------------------------+
+2024-02-21 10:39:32,902 [main] |              Detect how many products without non available               |
+2024-02-21 10:39:32,903 [main] +---------------------------------------------------------------------------+
+2024-02-21 10:39:36,538 [main] THEN I search product
+2024-02-21 10:39:36,538 [main] Set Text by selector By.xpath: //input[@placeholder='Czego szukasz?']
+2024-02-21 10:39:36,802 [main] Click element by selector By.xpath: //span[text()='ADATA']
+2024-02-21 10:40:42,474 [main] +---------------------------------------------------------------------------+
+2024-02-21 10:40:42,477 [main] |              Detect how many products without non available               |
+2024-02-21 10:40:42,478 [main] +---------------------------------------------------------------------------+
+2024-02-21 10:40:46,366 [main] THEN I search product
+2024-02-21 10:40:46,367 [main] Set Text by selector By.xpath: //input[@placeholder='Czego szukasz?']
+2024-02-21 10:40:46,683 [main] Click element by selector By.xpath: //span[text()='ADATA']
+2024-02-21 10:40:49,082 [main] Looking for elements by selector By.xpath: //div[text()='Czasowo niedostępny']
+2024-02-21 10:42:38,357 [main] +---------------------------------------------------------------------------+
+2024-02-21 10:42:38,364 [main] |              Detect how many products without non available               |
+2024-02-21 10:42:38,365 [main] +---------------------------------------------------------------------------+
+2024-02-21 10:42:43,545 [main] THEN I search product
+2024-02-21 10:42:43,546 [main] Set Text by selector By.xpath: //input[@placeholder='Czego szukasz?']
+2024-02-21 10:42:44,122 [main] Click element by selector By.xpath: //span[text()='ADATA']
+2024-02-21 10:42:47,654 [main] Looking for elements by selector By.xpath: //div[text()='Czasowo niedostępny']
+2024-02-21 10:43:03,021 [main] +---------------------------------------------------------------------------+
+2024-02-21 10:43:03,029 [main] |              Detect how many products without non available               |
+2024-02-21 10:43:03,029 [main] +---------------------------------------------------------------------------+
+2024-02-21 10:43:07,827 [main] THEN I search product
+2024-02-21 10:43:07,827 [main] Set Text by selector By.xpath: //input[@placeholder='Czego szukasz?']
+2024-02-21 10:43:08,316 [main] Click element by selector By.xpath: //span[text()='ADATA']
+2024-02-21 10:43:12,774 [main] Looking for elements by selector By.xpath: //div[text()='Czasowo niedostępny']
+2024-02-21 10:52:23,158 [main] +---------------------------------------------------------------------------+
+2024-02-21 10:52:23,162 [main] |              Detect how many products without non available               |
+2024-02-21 10:52:23,162 [main] +---------------------------------------------------------------------------+
+2024-02-21 10:52:27,093 [main] THEN I search product
+2024-02-21 10:52:27,093 [main] Set Text by selector By.xpath: //input[@placeholder='Czego szukasz?']
+2024-02-21 10:52:27,400 [main] Click element by selector By.xpath: //span[text()='ADATA']
+2024-02-21 10:52:30,109 [main] Looking for element by selector By.xpath: //div[text()='Czasowo niedostępny']
+2024-02-21 11:37:54,785 [main] +---------------------------------------------------------------------------+
+2024-02-21 11:37:54,789 [main] |              Detect how many products without non available               |
+2024-02-21 11:37:54,789 [main] +---------------------------------------------------------------------------+
+2024-02-21 11:37:58,222 [main] THEN I search product
+2024-02-21 11:37:58,222 [main] Set Text by selector By.xpath: //input[@placeholder='Czego szukasz?']
+2024-02-21 11:37:58,530 [main] Click element by selector By.xpath: //span[text()='ADATA']
+2024-02-21 11:38:00,842 [main] Get Text by selector By.xpath: //div[@class='sc-hqmb1u-7 cLoElV']
+2024-02-21 11:38:01,562 [main] Looking for element by selector By.xpath: //div[text()='Czasowo niedostępny']
+2024-02-21 11:38:19,737 [main] +---------------------------------------------------------------------------+
+2024-02-21 11:38:19,742 [main] |              Detect how many products without non available               |
+2024-02-21 11:38:19,743 [main] +---------------------------------------------------------------------------+
+2024-02-21 11:38:24,304 [main] THEN I search product
+2024-02-21 11:38:24,305 [main] Set Text by selector By.xpath: //input[@placeholder='Czego szukasz?']
+2024-02-21 11:38:24,825 [main] Click element by selector By.xpath: //span[text()='ADATA']
+2024-02-21 11:38:27,215 [main] Get Text by selector By.xpath: //div[@class='sc-hqmb1u-7 cLoElV']
+2024-02-21 11:38:27,316 [main] Looking for element by selector By.xpath: //div[text()='Czasowo niedostępny']
+2024-02-21 12:27:28,107 [main] +---------------------------------------------------------------------------+
+2024-02-21 12:27:28,110 [main] |                              Move the slider                              |
+2024-02-21 12:27:28,110 [main] +---------------------------------------------------------------------------+
+2024-02-21 12:31:30,200 [main] +---------------------------------------------------------------------------+
+2024-02-21 12:31:30,203 [main] |                              Move the slider                              |
+2024-02-21 12:31:30,204 [main] +---------------------------------------------------------------------------+
+2024-02-21 12:31:34,044 [main] Click element by selector By.xpath: //*[contains(text(), 'Zgadzam sie')]
+2024-02-21 12:32:04,863 [main] -----Scenario is FAILED-----
+2024-02-21 12:32:39,196 [main] +---------------------------------------------------------------------------+
+2024-02-21 12:32:39,200 [main] |                              Move the slider                              |
+2024-02-21 12:32:39,200 [main] +---------------------------------------------------------------------------+
+2024-02-21 12:32:43,057 [main] Click element by selector By.xpath: //*[contains(text(), 'Zgadzam się')]
+2024-02-21 12:57:13,105 [main] +---------------------------------------------------------------------------+
+2024-02-21 12:57:13,109 [main] |                              Move the slider                              |
+2024-02-21 12:57:13,109 [main] +---------------------------------------------------------------------------+
+2024-02-21 12:57:28,809 [main] Click element by selector By.xpath: //*[contains(text(), 'Zgadzam się')]
+2024-02-21 12:59:12,481 [main] +---------------------------------------------------------------------------+
+2024-02-21 12:59:12,484 [main] |                              Move the slider                              |
+2024-02-21 12:59:12,486 [main] +---------------------------------------------------------------------------+
+2024-02-21 12:59:16,550 [main] Click element by selector By.xpath: //*[contains(text(), 'Zgadzam się')]
+2024-02-21 13:13:09,670 [main] +---------------------------------------------------------------------------+
+2024-02-21 13:13:09,675 [main] |                              Move the slider                              |
+2024-02-21 13:13:09,675 [main] +---------------------------------------------------------------------------+
+2024-02-21 13:13:13,940 [main] Click element by selector By.xpath: //*[contains(text(), 'Zgadzam się')]
+2024-02-21 13:13:14,085 [main] Looking for element by selector By.xpath: //input[@class='range-slider range-slider--primary']
+2024-02-21 13:13:49,066 [main] +---------------------------------------------------------------------------+
+2024-02-21 13:13:49,072 [main] |                              Move the slider                              |
+2024-02-21 13:13:49,072 [main] +---------------------------------------------------------------------------+
+2024-02-21 13:13:53,401 [main] Click element by selector By.xpath: //*[contains(text(), 'Zgadzam się')]
+2024-02-21 13:13:53,537 [main] Looking for element by selector By.xpath: //input[@class='range-slider range-slider--primary']
+2024-02-21 13:32:31,862 [main] +---------------------------------------------------------------------------+
+2024-02-21 13:32:31,865 [main] |                              Move the slider                              |
+2024-02-21 13:32:31,865 [main] +---------------------------------------------------------------------------+
+2024-02-21 13:33:04,301 [main] +---------------------------------------------------------------------------+
+2024-02-21 13:33:04,305 [main] |                              Move the slider                              |
+2024-02-21 13:33:04,305 [main] +---------------------------------------------------------------------------+
+2024-02-21 13:33:08,820 [main] Click element by selector By.xpath: //*[contains(text(), 'Zgadzam się')]
+2024-02-21 13:33:08,926 [main] Click element by selector By.id: datePickerMonthYearInput
+2024-02-21 13:40:42,552 [main] +---------------------------------------------------------------------------+
+2024-02-21 13:40:42,556 [main] |                              Move the slider                              |
+2024-02-21 13:40:42,556 [main] +---------------------------------------------------------------------------+
+2024-02-21 13:40:46,425 [main] Click element by selector By.xpath: //*[contains(text(), 'Zgadzam się')]
+2024-02-21 13:40:46,527 [main] Click element by selector By.id: datePickerMonthYearInput
+2024-02-21 13:40:46,613 [main] Click element by selector By.className: react-datepicker__month-select
+2024-02-21 13:40:46,677 [main] Click element by selector By.xpath: //option[contains(text(), 'October')]
+2024-02-21 13:43:35,123 [main] +---------------------------------------------------------------------------+
+2024-02-21 13:43:35,127 [main] |                              Move the slider                              |
+2024-02-21 13:43:35,127 [main] +---------------------------------------------------------------------------+
+2024-02-21 13:43:39,075 [main] Click element by selector By.xpath: //*[contains(text(), 'Zgadzam się')]
+2024-02-21 13:43:39,182 [main] Click element by selector By.id: datePickerMonthYearInput
+2024-02-21 13:43:39,274 [main] Click element by selector By.className: react-datepicker__month-select
+2024-02-21 13:43:39,352 [main] Click element by selector By.xpath: //option[contains(text(), 'October')]
+2024-02-21 13:43:39,413 [main] Click element by selector By.xpath: //div[contains(text(), '10')]
+2024-02-22 10:10:55,518 [main] +---------------------------------------------------------------------------+
+2024-02-22 10:10:55,527 [main] |                              Move the slider                              |
+2024-02-22 10:10:55,527 [main] +---------------------------------------------------------------------------+
+2024-02-22 10:11:00,412 [main] Click element by selector By.xpath: //*[contains(text(), 'Zgadzam się')]
+2024-02-22 10:11:00,514 [main] Click element by selector By.id: datePickerMonthYearInput
+2024-02-22 10:11:00,601 [main] Click element by selector By.className: react-datepicker__month-select
+2024-02-22 10:11:00,666 [main] Click element by selector By.xpath: //option[contains(text(), 'October')]
+2024-02-22 10:11:00,730 [main] Click element by selector By.xpath: //div[contains(text(), '10')]
+2024-02-22 10:24:08,494 [main] +---------------------------------------------------------------------------+
+2024-02-22 10:24:08,498 [main] |                              Move the slider                              |
+2024-02-22 10:24:08,498 [main] +---------------------------------------------------------------------------+
+2024-02-22 10:24:12,346 [main] Click element by selector By.xpath: //*[contains(text(), 'Zgadzam się')]
+2024-02-22 10:24:12,454 [main] Click element by selector By.id: datePickerMonthYearInput
+2024-02-22 10:24:12,559 [main] Click element by selector By.className: react-datepicker__month-select
+2024-02-22 10:24:12,640 [main] Click element by selector By.xpath: //div[contains(text(), '10')]
+2024-02-22 10:25:16,598 [main] +---------------------------------------------------------------------------+
+2024-02-22 10:25:16,603 [main] |                              Move the slider                              |
+2024-02-22 10:25:16,603 [main] +---------------------------------------------------------------------------+
+2024-02-22 10:25:20,389 [main] Click element by selector By.xpath: //*[contains(text(), 'Zgadzam się')]
+2024-02-22 10:25:20,492 [main] Click element by selector By.id: datePickerMonthYearInput
+2024-02-22 10:25:20,576 [main] Click element by selector By.className: react-datepicker__month-select
+2024-02-22 10:25:20,662 [main] Click element by selector By.xpath: //option[contains(text(), 'July')]
+2024-02-22 10:25:20,725 [main] Click element by selector By.xpath: //div[contains(text(), '10')]
+2024-02-22 10:28:33,584 [main] +---------------------------------------------------------------------------+
+2024-02-22 10:28:33,588 [main] |                              Move the slider                              |
+2024-02-22 10:28:33,588 [main] +---------------------------------------------------------------------------+
+2024-02-22 10:28:39,314 [main] Click element by selector By.xpath: //*[contains(text(), 'Zgadzam się')]
+2024-02-22 10:28:39,408 [main] Click element by selector By.id: datePickerMonthYearInput
+2024-02-22 10:28:39,504 [main] Click element by selector By.className: react-datepicker__month-select
+2024-02-22 10:28:39,581 [main] Click element by selector By.xpath: //option[contains(text(), 'July')]
+2024-02-22 10:28:39,642 [main] Click element by selector By.xpath: //div[contains(text(), '10')]
+2024-02-22 10:28:39,700 [main] Get Text by selector By.id: datePickerMonthYearInput
+2024-02-22 10:30:40,622 [main] +---------------------------------------------------------------------------+
+2024-02-22 10:30:40,626 [main] |                              Move the slider                              |
+2024-02-22 10:30:40,626 [main] +---------------------------------------------------------------------------+
+2024-02-22 10:30:44,458 [main] Click element by selector By.xpath: //*[contains(text(), 'Zgadzam się')]
+2024-02-22 10:30:44,560 [main] Click element by selector By.id: datePickerMonthYearInput
+2024-02-22 10:30:44,646 [main] Click element by selector By.className: react-datepicker__month-select
+2024-02-22 10:30:44,724 [main] Click element by selector By.xpath: //option[contains(text(), 'July')]
+2024-02-22 10:30:44,781 [main] Click element by selector By.xpath: //div[contains(text(), '10')]
+2024-02-22 10:30:44,853 [main] Get Text by selector By.id: datePickerMonthYearInput
+2024-02-22 10:30:44,899 [main] -----Scenario is FAILED-----
+2024-02-22 10:37:21,800 [main] +---------------------------------------------------------------------------+
+2024-02-22 10:37:21,804 [main] |                              Move the slider                              |
+2024-02-22 10:37:21,804 [main] +---------------------------------------------------------------------------+
+2024-02-22 10:37:25,635 [main] Click element by selector By.xpath: //*[contains(text(), 'Zgadzam się')]
+2024-02-22 10:37:25,737 [main] Click element by selector By.id: datePickerMonthYearInput
+2024-02-22 10:37:25,828 [main] Click element by selector By.className: react-datepicker__month-select
+2024-02-22 10:37:25,903 [main] Click element by selector By.xpath: //option[contains(text(), 'July')]
+2024-02-22 10:37:25,956 [main] Click element by selector By.xpath: //div[contains(text(), '10')]
+2024-02-22 10:37:26,019 [main] Looking for element by selector By.id: datePickerMonthYearInput
+2024-02-22 10:55:57,381 [main] +---------------------------------------------------------------------------+
+2024-02-22 10:55:57,385 [main] |                              Move the slider                              |
+2024-02-22 10:55:57,385 [main] +---------------------------------------------------------------------------+
+2024-02-22 10:56:01,155 [main] Click element by selector By.xpath: //*[contains(text(), 'Zgadzam się')]
+2024-02-22 10:56:01,271 [main] Click element by selector By.id: datePickerMonthYearInput
+2024-02-22 10:56:01,360 [main] Click element by selector By.className: react-datepicker__month-select
+2024-02-22 10:56:01,426 [main] Click element by selector By.xpath: //option[contains(text(), 'July')]
+2024-02-22 10:56:01,466 [main] Click element by selector By.xpath: //div[contains(text(), '10')]
+2024-02-22 10:56:01,539 [main] Looking for element by selector By.id: datePickerMonthYearInput
+2024-02-22 12:23:59,010 [main] +---------------------------------------------------------------------------+
+2024-02-22 12:23:59,017 [main] |                              Move the slider                              |
+2024-02-22 12:23:59,018 [main] +---------------------------------------------------------------------------+
+2024-02-22 12:25:53,277 [main] +---------------------------------------------------------------------------+
+2024-02-22 12:25:53,281 [main] |                              Move the slider                              |
+2024-02-22 12:25:53,281 [main] +---------------------------------------------------------------------------+
+2024-02-22 12:25:57,687 [main] Click element by selector By.xpath: //*[contains(text(), 'Zgadzam się')]
+2024-02-22 12:25:57,783 [main] Click element by selector By.id: datePickerMonthYearInput
+2024-02-22 12:25:57,876 [main] Click element by selector By.className: react-datepicker__month-select
+2024-02-22 12:25:57,942 [main] Click element by selector By.xpath: //option[contains(text(), 'July')]
+2024-02-22 12:25:57,984 [main] Click element by selector By.xpath: //div[contains(text(), '10')]
+2024-02-22 12:25:58,054 [main] Looking for element by selector By.id: datePickerMonthYearInput
+2024-02-22 12:28:14,478 [main] +---------------------------------------------------------------------------+
+2024-02-22 12:28:14,481 [main] |                         Check if links are valid                          |
+2024-02-22 12:28:14,482 [main] +---------------------------------------------------------------------------+
+2024-02-22 12:28:18,102 [main] Click element by selector By.xpath: //*[contains(text(), 'Zgadzam się')]
+2024-02-22 12:28:18,232 [main] Click element by selector By.xpath: //a[contains(text(), 'Click Here for Broken Link')]
+2024-02-22 12:35:35,118 [main] +---------------------------------------------------------------------------+
+2024-02-22 12:35:35,124 [main] |                         Check if links are valid                          |
+2024-02-22 12:35:35,125 [main] +---------------------------------------------------------------------------+
+2024-02-22 12:35:39,923 [main] Click element by selector By.xpath: //*[contains(text(), 'Zgadzam się')]
+2024-02-22 12:35:40,064 [main] Click element by selector By.xpath: //a[contains(text(), 'Click Here for Broken Link')]
+2024-02-22 12:42:57,492 [main] +---------------------------------------------------------------------------+
+2024-02-22 12:42:57,496 [main] |                         Check if links are valid                          |
+2024-02-22 12:42:57,496 [main] +---------------------------------------------------------------------------+
+2024-02-22 12:43:01,282 [main] Click element by selector By.xpath: //*[contains(text(), 'Zgadzam się')]
+2024-02-22 13:23:17,909 [main] +---------------------------------------------------------------------------+
+2024-02-22 13:23:17,912 [main] |                          Check if img is loaded                           |
+2024-02-22 13:23:17,913 [main] +---------------------------------------------------------------------------+
+2024-02-22 13:23:21,845 [main] Click element by selector By.xpath: //*[contains(text(), 'Zgadzam się')]
+2024-02-22 13:23:21,950 [main] Get width of element fiven by By.xpath: //p/following-sibling::img[@src='/images/Toolsqa.jpg']
+2024-02-22 13:28:37,673 [main] +---------------------------------------------------------------------------+
+2024-02-22 13:28:37,676 [main] |                          Check if img is loaded                           |
+2024-02-22 13:28:37,677 [main] +---------------------------------------------------------------------------+
+2024-02-22 13:28:41,970 [main] Click element by selector By.xpath: //*[contains(text(), 'Zgadzam się')]
+2024-02-22 13:28:42,081 [main] Get width of element fiven by By.xpath: //p/following-sibling::img[@src='/images/Toolsqa_1.jpg']
+2024-02-22 13:32:11,200 [main] +---------------------------------------------------------------------------+
+2024-02-22 13:32:11,203 [main] |                          Check if img is loaded                           |
+2024-02-22 13:32:11,204 [main] +---------------------------------------------------------------------------+
+2024-02-22 13:32:15,108 [main] Click element by selector By.xpath: //*[contains(text(), 'Zgadzam się')]
+2024-02-22 13:32:15,258 [main] Get width of element fiven by By.xpath: //p/following-sibling::img[@src='/images/Toolsqa_1.jpg']
+2024-02-22 13:32:15,331 [main] -----Scenario is FAILED-----
+2024-02-22 14:02:24,875 [main] +---------------------------------------------------------------------------+
+2024-02-22 14:02:24,878 [main] |                      How long after element visible                       |
+2024-02-22 14:02:24,879 [main] +---------------------------------------------------------------------------+
+2024-02-22 14:02:28,791 [main] Click element by selector By.xpath: //*[contains(text(), 'Zgadzam się')]
+2024-02-22 14:02:28,903 [main] THEN I retrieve the time
+2024-02-22 14:02:28,903 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:28,967 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:29,016 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:29,068 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:29,121 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:29,165 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:29,209 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:29,254 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:29,328 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:29,375 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:29,421 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:29,467 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:29,514 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:29,561 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:29,605 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:29,652 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:29,697 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:29,745 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:29,860 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:29,913 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:29,958 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:30,007 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:30,051 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:30,097 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:30,158 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:30,243 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:30,292 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:30,337 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:30,385 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:30,445 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:30,489 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:30,536 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:30,581 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:30,629 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:30,718 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:30,777 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:30,828 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:30,873 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:30,921 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:30,966 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:31,010 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:31,057 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:31,103 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:31,148 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:31,195 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:31,244 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:31,289 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:31,336 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:31,380 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:31,424 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:31,474 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:31,518 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:31,567 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:31,612 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:31,657 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:31,703 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:31,749 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:31,795 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:31,840 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:31,885 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:31,933 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:31,978 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:32,025 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:32,068 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:32,113 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:32,161 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:32,209 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:32,254 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:32,301 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:32,348 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:32,395 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:32,442 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:32,487 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:32,533 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:32,581 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:32,625 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:32,670 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:32,718 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:32,764 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:32,812 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:32,861 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:32,906 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:32,953 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:32,998 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:33,046 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:33,093 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:33,137 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:33,203 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:33,246 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:33,296 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:33,340 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:33,387 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:33,433 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:33,479 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:33,526 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:33,573 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:33,618 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:33,667 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:33,713 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:33,758 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:33,807 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:33,855 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:33,902 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:33,947 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:33,992 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:34,039 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:34,085 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:34,150 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:34,194 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:34,242 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:34,286 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:34,334 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:34,384 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:34,432 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:34,477 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:34,524 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:34,573 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:34,621 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:34,669 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:34,716 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:34,764 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:34,810 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:34,860 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:34,906 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:34,953 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:35,000 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:35,047 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:35,091 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:35,137 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:35,182 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:35,230 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:35,276 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:35,325 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:35,370 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:35,442 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:35,533 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:35,584 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:35,631 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:35,676 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:35,723 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:35,770 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:35,818 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:35,879 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:35,927 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:35,975 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:36,019 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:36,066 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:36,112 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:36,159 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:36,204 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:36,252 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:36,298 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:36,343 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:36,392 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:36,439 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:36,484 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:36,530 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:36,576 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:36,623 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:36,671 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:36,718 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:36,765 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:36,811 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:36,857 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:36,904 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:36,952 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:36,998 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:37,045 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:37,090 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:37,138 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:37,183 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:37,228 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:37,273 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:37,317 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:37,363 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:37,408 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:37,455 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:37,503 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:37,550 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:37,596 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:37,642 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:37,688 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:37,732 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:37,777 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:37,824 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:37,872 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:37,916 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:37,964 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:38,008 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:38,056 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:38,100 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:38,149 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:38,196 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:38,241 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:38,290 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:38,338 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:38,386 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:38,431 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:38,479 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:38,524 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:38,569 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:38,617 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:38,661 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:38,708 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:38,757 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:38,802 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:38,848 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:38,894 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:38,941 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:38,991 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:39,036 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:39,082 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:39,130 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:39,177 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:39,226 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:39,272 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:39,322 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:39,364 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:39,410 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:39,456 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:39,502 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:39,548 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:39,594 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:39,643 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:39,688 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:39,737 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:39,778 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:39,827 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:39,873 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:39,921 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:39,969 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:40,014 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:40,062 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:40,107 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:40,153 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:40,201 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:40,248 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:40,292 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:40,353 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:40,417 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:40,464 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:40,508 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:40,556 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:40,600 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:40,644 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:40,690 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:40,736 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:40,782 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:40,828 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:40,875 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:40,919 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:40,970 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:41,017 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:41,061 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:41,110 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:41,153 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:41,198 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:41,241 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:41,291 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:41,339 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:41,384 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:41,431 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:41,476 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:41,540 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:41,583 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:41,631 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:41,677 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:41,723 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:41,769 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:41,819 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:41,863 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:41,907 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:41,954 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:41,999 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:42,046 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:42,093 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:42,137 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:42,182 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:42,240 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:42,323 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:42,396 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:42,487 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:42,580 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:42,655 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:42,729 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:42,783 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:42,880 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:42,965 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:43,052 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:43,095 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:43,145 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:43,191 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:43,238 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:43,285 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:43,332 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:43,378 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:43,427 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:43,473 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:43,521 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:43,568 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:43,619 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:43,663 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:43,707 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:43,755 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:43,801 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:43,847 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:43,894 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:43,941 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:43,989 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:44,034 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:44,082 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:44,129 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:44,175 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:44,224 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:44,272 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:44,317 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:44,362 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:44,409 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:44,454 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:44,507 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:44,553 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:44,596 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:44,641 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:44,690 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:44,734 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:44,801 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:44,843 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:44,894 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:44,941 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:45,005 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:45,058 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:45,109 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:45,151 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:45,197 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:45,246 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:45,292 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:45,340 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:45,386 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:45,432 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:45,477 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:45,525 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:45,571 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:45,620 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:45,665 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:45,711 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:45,756 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:45,803 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:45,849 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:45,897 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:45,941 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:45,989 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:46,034 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:46,079 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:46,126 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:46,172 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:46,219 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:46,266 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:46,312 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:46,356 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:46,402 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:46,449 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:46,495 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:46,542 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:46,590 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:46,635 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:46,681 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:46,728 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:46,772 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:46,817 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:46,865 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:46,911 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:46,958 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:47,003 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:47,050 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:47,097 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:47,143 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:47,189 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:47,240 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:47,283 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:47,332 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:47,378 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:47,423 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:47,469 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:47,519 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:47,562 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:47,609 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:47,657 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:47,706 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:47,750 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:47,796 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:47,843 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:47,890 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:47,937 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:47,983 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:48,032 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:48,080 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:48,126 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:48,174 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:48,219 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:48,267 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:48,310 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:48,356 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:48,403 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:48,448 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:48,494 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:48,540 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:48,586 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:48,633 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:48,678 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:48,723 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:48,770 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:48,818 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:48,864 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:48,912 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:48,957 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:49,004 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:49,049 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:49,093 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:49,143 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:49,189 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:49,235 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:49,282 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:49,324 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:49,372 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:49,417 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:49,464 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:49,508 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:49,555 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:49,601 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:49,648 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:49,699 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:49,740 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:49,788 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:49,832 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:49,877 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:49,924 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:49,971 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:50,017 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:50,065 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:50,111 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:50,156 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:50,203 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:50,248 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:50,296 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:50,342 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:50,388 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:50,436 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:50,483 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:50,531 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:50,579 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:50,625 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:50,670 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:50,718 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:50,766 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:50,812 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:50,857 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:02:50,906 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:05:38,897 [main] +---------------------------------------------------------------------------+
+2024-02-22 14:05:38,901 [main] |                      How long after element visible                       |
+2024-02-22 14:05:38,901 [main] +---------------------------------------------------------------------------+
+2024-02-22 14:05:42,662 [main] Click element by selector By.xpath: //*[contains(text(), 'Zgadzam się')]
+2024-02-22 14:05:42,779 [main] THEN I retrieve the time
+2024-02-22 14:05:42,779 [main] Looking for element by selector By.id: colorChange
+2024-02-22 14:41:00,541 [main] +---------------------------------------------------------------------------+
+2024-02-22 14:41:00,545 [main] |                      How long after element visible                       |
+2024-02-22 14:41:00,545 [main] +---------------------------------------------------------------------------+
+2024-02-22 14:41:04,587 [main] Click element by selector By.xpath: //*[contains(text(), 'Zgadzam się')]
+2024-02-22 14:41:04,698 [main] THEN I retrieve the time
+2024-02-22 14:41:04,698 [main] Looking for element by selector By.xpath: //button[@class='mt-4 text-danger btn btn-primary']
+2024-02-22 14:41:31,177 [main] +---------------------------------------------------------------------------+
+2024-02-22 14:41:31,181 [main] |                      How long after element visible                       |
+2024-02-22 14:41:31,181 [main] +---------------------------------------------------------------------------+
+2024-02-22 14:41:34,804 [main] Click element by selector By.xpath: //*[contains(text(), 'Zgadzam się')]
+2024-02-22 14:41:34,916 [main] THEN I retrieve the time
+2024-02-22 14:41:34,916 [main] Looking for element by selector By.xpath: //button[@class='mt-4 text-danger btn btn-primary']
+2024-02-22 14:41:59,572 [main] +---------------------------------------------------------------------------+
+2024-02-22 14:41:59,577 [main] |                      How long after element visible                       |
+2024-02-22 14:41:59,577 [main] +---------------------------------------------------------------------------+
+2024-02-22 14:42:03,516 [main] Click element by selector By.xpath: //*[contains(text(), 'Zgadzam się')]
+2024-02-22 14:42:03,692 [main] THEN I retrieve the time
+2024-02-22 14:42:03,692 [main] Looking for element by selector By.xpath: //button[@class='mt-4 text-danger btn btn-primary']
+2024-02-22 14:42:21,232 [main] +---------------------------------------------------------------------------+
+2024-02-22 14:42:21,238 [main] |                      How long after element visible                       |
+2024-02-22 14:42:21,238 [main] +---------------------------------------------------------------------------+
+2024-02-22 14:42:25,720 [main] Click element by selector By.xpath: //*[contains(text(), 'Zgadzam się')]
+2024-02-22 14:42:25,857 [main] THEN I retrieve the time
+2024-02-22 14:42:25,858 [main] Looking for element by selector By.xpath: //button[@class='mt-4 text-danger btn btn-primary']
+2024-02-22 14:46:55,757 [main] +---------------------------------------------------------------------------+
+2024-02-22 14:46:55,761 [main] |                      How long after element visible                       |
+2024-02-22 14:46:55,761 [main] +---------------------------------------------------------------------------+
+2024-02-22 14:46:58,191 [main] Click element by selector By.xpath: //*[contains(text(), 'Zgadzam się')]
+2024-02-22 14:47:09,601 [main] +---------------------------------------------------------------------------+
+2024-02-22 14:47:09,606 [main] |                      How long after element visible                       |
+2024-02-22 14:47:09,607 [main] +---------------------------------------------------------------------------+
+2024-02-22 14:47:14,157 [main] Click element by selector By.xpath: //*[contains(text(), 'Zgadzam się')]
+2024-02-22 14:47:14,282 [main] THEN I retrieve the time
+2024-02-22 14:47:14,284 [main] Looking for element by selector By.xpath: //button[@class='mt-4 text-danger btn btn-primary']
+2024-02-22 14:47:59,356 [main] +---------------------------------------------------------------------------+
+2024-02-22 14:47:59,360 [main] |                      How long after element visible                       |
+2024-02-22 14:47:59,360 [main] +---------------------------------------------------------------------------+
+2024-02-22 14:48:03,982 [main] Click element by selector By.xpath: //*[contains(text(), 'Zgadzam się')]
+2024-02-22 14:48:04,142 [main] THEN I retrieve the time
+2024-02-22 14:48:04,143 [main] Looking for element by selector By.xpath: //button[@class='mt-4 text-danger btn btn-primary']
+2024-02-23 09:54:49,376 [main] +---------------------------------------------------------------------------+
+2024-02-23 09:54:49,380 [main] |                      How long after element visible                       |
+2024-02-23 09:54:49,380 [main] +---------------------------------------------------------------------------+
+2024-02-23 09:54:53,747 [main] Click element by selector By.xpath: //*[contains(text(), 'Zgadzam się')]
+2024-02-23 09:54:53,862 [main] THEN I retrieve the time
+2024-02-23 09:54:53,864 [main] Looking for element by selector By.xpath: //button[@class='mt-4 text-danger btn btn-primary']
+2024-02-23 09:57:54,979 [main] +---------------------------------------------------------------------------+
+2024-02-23 09:57:54,983 [main] |                      How long after element visible                       |
+2024-02-23 09:57:54,983 [main] +---------------------------------------------------------------------------+
+2024-02-23 09:58:00,524 [main] Click element by selector By.xpath: //*[contains(text(), 'Zgadzam się')]
+2024-02-23 09:58:00,633 [main] THEN I retrieve the time
+2024-02-23 09:58:00,634 [main] Looking for element by selector By.xpath: //button[@class='mt-4 text-danger btn btn-primary']
+2024-02-23 09:59:21,440 [main] +---------------------------------------------------------------------------+
+2024-02-23 09:59:21,443 [main] |                      How long after element visible                       |
+2024-02-23 09:59:21,444 [main] +---------------------------------------------------------------------------+
+2024-02-23 09:59:25,296 [main] Click element by selector By.xpath: //*[contains(text(), 'Zgadzam się')]
+2024-02-23 09:59:25,409 [main] THEN I retrieve the time
+2024-02-23 09:59:25,410 [main] Looking for element by selector By.xpath: //button[@class='mt-4 text-danger btn btn-primary']
